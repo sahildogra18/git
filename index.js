@@ -18,3 +18,8 @@ function hello(name) {
   return `good morning to ${name}`;
 }
 let val = hello("shreya");
+
+function knight(name){
+  return `good morning to ${namek}`
+}
+let valt = knight("shreya")
