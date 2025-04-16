@@ -1,5 +1,5 @@
 function pl(team) {
-  return team;
+  return "hola" + team;
 }
 
 let name = pl(`Arsenal`);
@@ -13,3 +13,8 @@ let laliga = "Messi ronalso suiiiiii bbc messi suarez neymar";
 
 let devloperA = "adding devloper branch A";
 //cr7 reunited
+
+function hello(name) {
+  return `good morning to ${name}`;
+}
+let val = hello("shreya");
